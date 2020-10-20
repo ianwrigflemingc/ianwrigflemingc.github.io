@@ -91,9 +91,17 @@ body {
   margin: 5px;
   padding: 5px;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
 }
-	
+
+.h2 {
+  color: white;
+  margin: 5px;
+  padding: 5px;
+  text-align: left;
+  font-size: 20px;
+}
+
 .column1 {
   float: left;
   width: 30.3%;
