@@ -43,14 +43,14 @@
     float: none;
     display: block;
     text-align: left;
-  }
+ /* }
   .topnav.responsive .dropdown {float: none;}
   .topnav.responsive .dropdown-content {position: relative;}
   .topnav.responsive .dropdown .dropbtn {
     display: block;
     width: 100%;
     text-align: left;
-  }
+  } */
 }
 
 .active {
@@ -62,7 +62,7 @@
   display: none;
 }
 
-.topnav a:hover, .dropdown:hover .dropbtn {
+.topnav a:hover, /*.dropdown:hover .dropbtn*/ {
   background-color: #555;
   color: white;
 }
@@ -81,7 +81,7 @@
     top: 0;
   }
 	
-  .topnav.responsive a {
+  /*.topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
@@ -94,7 +94,7 @@
     width: 100%;
     text-align: left;
   }
-}
+} */
 
 body {
     background: url(intense-red-sunset-over-fields.jpg);
@@ -144,8 +144,8 @@ body {
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: center;
-  width: 180px;
+  float: left;
+  width: 300px;
 }
 
 div.gallery:hover {
