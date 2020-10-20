@@ -13,7 +13,8 @@
     position: absolute;
     right: 0;
     top: 0;
-}	  
+}	
+	
 /* Style for the navigation bar. Sourced from W3Schools */
 
 .topnav {
@@ -37,8 +38,8 @@
     position: absolute;
     right: 0;
     top: 0;
-  }
-	
+   }
+}
   .topnav.responsive a {
     float: none;
     display: block;
@@ -51,7 +52,7 @@
     width: 100%;
     text-align: left;
   } 
-} */
+ */
 
 .active {
   background-color: rgb(113,222,125);
@@ -80,7 +81,7 @@
     right: 0;
     top: 0;
   }
-	
+}	
   /*.topnav.responsive a {
     float: none;
     display: block;
