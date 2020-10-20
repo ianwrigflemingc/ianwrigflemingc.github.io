@@ -63,7 +63,7 @@
   display: none;
 }
 
-.topnav a:hover, /*.dropdown:hover .dropbtn*/ {
+.topnav a:hover, .dropdown:hover .dropbtn {
   background-color: #555;
   color: white;
 }
