@@ -137,11 +137,12 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
+  width: 33%;
   height: auto;
 }
 
 div.desc {
-  padding: 5px;
+  padding: 10px;
   text-align: center;
+  color: white;
 }
