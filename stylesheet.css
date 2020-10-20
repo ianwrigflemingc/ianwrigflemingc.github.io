@@ -117,5 +117,5 @@
 body {
     background: url(intense-red-sunset-over-fields.jpg);
     background-repeat: no-repeat;
-    background-size: 600px;
+    background-size: cover;
 }
