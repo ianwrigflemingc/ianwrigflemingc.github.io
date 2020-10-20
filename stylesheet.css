@@ -113,3 +113,9 @@
     text-align: left;
   }
 }
+
+body {
+    background: url(intense-red-sunset-over-fields.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
