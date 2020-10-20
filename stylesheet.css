@@ -86,7 +86,12 @@ body {
     background-size: cover;
 }
 
-
+.h1 {
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+	
 .column1 {
   float: left;
   width: 30.3%;
