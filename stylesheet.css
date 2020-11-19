@@ -7,14 +7,14 @@
 }
 
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   .banner-image.responsive {position: relative;}
   .banner-image.responsive a.icon {
     position: absolute;
     right: 0;
     top: 0;
 	}	
-}	
+}	 */
 /* Style for the navigation bar. Sourced from W3Schools */
 
 /* new stuff */
